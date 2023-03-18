@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theserhatyildiz&theme=radical)
 
-<img align=" left" width="47%" src="https://github-readme-stats.vercel.app/ap1/top-langs/?username=theserhatyildiz&layout=compact">
+
